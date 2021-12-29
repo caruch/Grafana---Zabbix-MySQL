@@ -22,7 +22,7 @@
   "gnetId": null,
   "graphTooltip": 0,
   "id": 84,
-  "iteration": 1640602177783,
+  "iteration": 1640799158998,
   "links": [],
   "panels": [
     {
@@ -1831,7 +1831,7 @@
       {
         "allValue": null,
         "current": {
-          "selected": true,
+          "selected": false,
           "text": "ANSESMYSQL",
           "value": "ANSESMYSQL"
         },
@@ -1844,67 +1844,22 @@
         "name": "Server",
         "options": [
           {
-            "selected": false,
-            "text": "ANSESDPDB01",
-            "value": "ANSESDPDB01"
-          },
-          {
             "selected": true,
             "text": "ANSESMYSQL",
             "value": "ANSESMYSQL"
           },
           {
             "selected": false,
-            "text": "ANSESTSASSRV",
-            "value": "ANSESTSASSRV"
+            "text": "SERVER2",
+            "value": "SERVER2"
           },
           {
             "selected": false,
-            "text": "ANSESTSASSRV01",
-            "value": "ANSESTSASSRV01"
-          },
-          {
-            "selected": false,
-            "text": "ANSESTSASSRV02",
-            "value": "ANSESTSASSRV02"
-          },
-          {
-            "selected": false,
-            "text": "ANSESMARIADB01",
-            "value": "ANSESMARIADB01"
-          },
-          {
-            "selected": false,
-            "text": "ANSESMARIADB02",
-            "value": "ANSESMARIADB02"
-          },
-          {
-            "selected": false,
-            "text": "ANSESPRMARIA01",
-            "value": "ANSESPRMARIA01"
-          },
-          {
-            "selected": false,
-            "text": "ANSESPRMARIA02",
-            "value": "ANSESPRMARIA02"
-          },
-          {
-            "selected": false,
-            "text": "ANSESPRMARIA03",
-            "value": "ANSESPRMARIA03"
-          },
-          {
-            "selected": false,
-            "text": "ANSESPRMARIA04",
-            "value": "ANSESPRMARIA04"
-          },
-          {
-            "selected": false,
-            "text": "ANSESPRMARIA05",
-            "value": "ANSESPRMARIA05"
+            "text": "SERVER3",
+            "value": "SERVER3"
           }
         ],
-        "query": "ANSESDPDB01,ANSESMYSQL,ANSESTSASSRV,ANSESTSASSRV01,ANSESTSASSRV02,ANSESMARIADB01,ANSESMARIADB02,ANSESPRMARIA01,ANSESPRMARIA02,ANSESPRMARIA03,ANSESPRMARIA04,ANSESPRMARIA05",
+        "query": "ANSESMYSQL,SERVER2,SERVER3",
         "queryValue": "",
         "skipUrlSync": false,
         "type": "custom"
